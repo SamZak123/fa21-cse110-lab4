@@ -8,7 +8,7 @@
 8. It will return [50, 100, 150]. 
 9. Error. 
 10. It will return 3. 
-11. It will return [50, 100, 150]. 
+11. It will return [50, 100, 150]. <br> 
 12a. student.name or student['name']
 b. student['Grad Year']
 c. student.greeting()
