@@ -9,3 +9,9 @@
 9. Error. 
 10. It will return 3. 
 11. It will return [50, 100, 150]. 
+12.
+    A student.name or student['name']
+    B student['Grad Year']
+    C student.greeting()
+    D student['Favorite Teacher'].name
+    E student['courseLoad'][0]
