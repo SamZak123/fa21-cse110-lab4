@@ -9,4 +9,4 @@
 9. Error. 
 10. It will return 3. 
 11. It will return [50, 100, 150]. <br> 
-12a. student.name or student['name'] <br> b. student['Grad Year'] <br> c. student.greeting() <br> d. student['Favorite Teacher'].name <br> e. student['courseLoad'][0]
+12 <br> a. student.name or student['name'] <br> b. student['Grad Year'] <br> c. student.greeting() <br> d. student['Favorite Teacher'].name <br> e. student['courseLoad'][0]
