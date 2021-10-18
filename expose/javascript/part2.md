@@ -6,7 +6,7 @@
 6. Error, because the let keyword is block scoped. Similar to the explanation above, discountedPrice can only be accessed within the scope of the for loop. 
 7. It will print 150. 
 8. It will return [50, 100, 150]. 
-9. Error. 
+9. Error, because the let keyword is block scoped. Therefore, i is only declared within the scope of the for loop, and when you try to access it outside the loop, you get an error.  
 10. It will return 3. 
 11. It will return [50, 100, 150]. <br> 
 12. <br> a. student.name or student['name'] <br> b. student['Grad Year'] <br> c. student.greeting() <br> d. student['Favorite Teacher'].name <br> e. student['courseLoad'][0]
