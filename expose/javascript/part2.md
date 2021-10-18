@@ -2,8 +2,8 @@
 2. It will print 150. 
 3. It will print 150. 
 4. It will return [50, 100, 150]. 
-5. Error, because let keyword...
-6. Error, because let keyword...
+5. Error, because the let keyword is block scoped. Therefore, i is only declared within the scope of the for loop, and when you try to access it outside the loop, you get an error. 
+6. Error, because the let keyword is block scoped. Similar to the explanation above, discountedPrice can only be accessed within the scope of the for loop. 
 7. It will print 150. 
 8. It will return [50, 100, 150]. 
 9. Error. 
